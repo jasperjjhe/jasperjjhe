@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hey! I'm Jasper! 👋
+# Past Work 💻
+# Current Endeavours 👨‍💻
 <!--
 **jasperjjhe/jasperjjhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
